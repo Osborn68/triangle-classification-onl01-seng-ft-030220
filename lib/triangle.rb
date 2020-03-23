@@ -30,3 +30,4 @@ class Triangle
       "Illegal Triangle!"
     end
 end
+end
